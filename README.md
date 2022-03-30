@@ -2,14 +2,18 @@
 - Please install both the frontend and backend and follow the following steps.
 
 #Backend
+
 Install all the dependencies and node module:
 * `npm install`
+
 To get the backend running:
 * `npm run dev`
 
 #Frontend
+
 Install all the dependencies and node module:
 * `npm install`
+
 To get the frontend running:
 * `npm start`
 

@@ -1,7 +1,7 @@
 # Min-Link-Src
 - Please install both the frontend and backend and follow the following steps.
 
-#Backend
+# Backend
 
 Install all the dependencies and node module:
 * `npm install`
@@ -9,7 +9,7 @@ Install all the dependencies and node module:
 To get the backend running:
 * `npm run dev`
 
-#Frontend
+# Frontend
 
 Install all the dependencies and node module:
 * `npm install`
